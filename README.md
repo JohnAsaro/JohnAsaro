@@ -15,7 +15,7 @@ I am passionate about solving complex problems through computational and psychol
 ---
 
 <details>
-<summary>### 🌟 Research Highlights</summary>
+<summary>### 🌟 Research Highlights (Expand to learn more about my research!) </summary>
 
 #### 📊 **The Merits of a Voting Rule Based on θ-Winning Sets**  
 - Developed a novel voting rule, **Greatest θ-Winning Set**, that outperforms traditional methods (e.g., Plurality, Borda Count) in fairness metrics.  
@@ -53,14 +53,13 @@ I am passionate about solving complex problems through computational and psychol
 
 ---
 
-<details>
-<summary>### 🛠️ Skills & Tools</summary>
+### 🛠️ Skills & Tools
 
 - **Languages**: Python, C++, Scheme, Java, Arduino C  
 - **Frameworks & Tools**: APIs, Unity, Git, LaTeX, Flask  
 - **Research Areas**: Computational Social Choice, Artificial Intelligence, Robotics  
 
-</details>
+
 
 ---
 
@@ -70,8 +69,7 @@ I'm always open to collaboration on projects involving AI, computational theory,
 
 ---
 
-<details>
-<summary>### 📜 Recent Achievements</summary>
+📜 Recent Achievements
 
 - Inducted into Psi Chi, the international psychology honors society for academic excellence.  
 - Completed cutting-edge research in **voting rules** and **θ-winner elections.**  
