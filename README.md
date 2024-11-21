@@ -5,14 +5,18 @@
 🧠 **Member of Psi Chi** - 💻 **Aspiring Software Engineer** - 🤖 **AI Enthusiast**
 
 ---
+
 ### 🚀 About Me
 I am passionate about solving complex problems through computational and psychological frameworks. My work spans diverse fields, from AI-driven game development to research in social choice theory. Here's what I'm currently focused on:  
 - 🤖 **AI Research**: Developing evolutionary algorithms to train agents in VizDoom.  
 - 🎮 **Game Development**: Designing immersive experiences with Unity, including a team-managed game, *Reaper*.  
 - 📜 **Computational Social Choice**: Introducing novel voting rules to improve fairness and applicability in elections.  
+
 ---
 
-### 🌟 Research Highlights
+<details>
+<summary>### 🌟 Research Highlights</summary>
+
 #### 📊 **The Merits of a Voting Rule Based on θ-Winning Sets**  
 - Developed a novel voting rule, **Greatest θ-Winning Set**, that outperforms traditional methods (e.g., Plurality, Borda Count) in fairness metrics.  
 - Conducted empirical studies on single and multi-winner elections, showcasing the rule's adaptability.  
@@ -34,6 +38,9 @@ I am passionate about solving complex problems through computational and psychol
 - **Reward Optimization**: Enhanced agent learning by incorporating penalties for inefficient behavior, such as wasting ammo.  
 - **Generalization**: Developed an environment adaptable to future projects in AI gameplay research.  
 - **Publications**: Currently drafting a paper to present insights into evolutionary strategies applied to first-person shooters.  
+
+</details>
+
 ---
 
 ### 🌐 Featured Projects
@@ -46,10 +53,14 @@ I am passionate about solving complex problems through computational and psychol
 
 ---
 
-### 🛠️ Skills & Tools
+<details>
+<summary>### 🛠️ Skills & Tools</summary>
+
 - **Languages**: Python, C++, Scheme, Java, Arduino C  
-- **Frameworks & Tools**: APIs, Unity, Git, LaTeX, Flask
+- **Frameworks & Tools**: APIs, Unity, Git, LaTeX, Flask  
 - **Research Areas**: Computational Social Choice, Artificial Intelligence, Robotics  
+
+</details>
 
 ---
 
@@ -59,25 +70,11 @@ I'm always open to collaboration on projects involving AI, computational theory,
 
 ---
 
-### 📜 Recent Achievements
+<details>
+<summary>### 📜 Recent Achievements</summary>
+
 - Inducted into Psi Chi, the international psychology honors society for academic excellence.  
-- Completed cutting-edge research in **voting rules** and **θ-winner elections**.  
+- Completed cutting-edge research in **voting rules** and **θ-winner elections.**  
 - Presented findings at an academic symposium.  
 
----
-
-
-<!--
-**JohnAsaro/JohnAsaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
