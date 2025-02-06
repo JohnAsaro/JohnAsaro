@@ -62,7 +62,7 @@ I am a researcher passionate about solving complex problems through computationa
 - Currently training the bot to succeed in the [My Way Home](https://vizdoom.farama.org/environments/default/#my-way-home) scenerio using ACO.
 
 ### 👀 Future Plans:
-- Will go back to Defend The Center, and solve it with visual information + CMA-ES.
+- Will go back to Defend The Center, and solve it with visual information + NEAT.
 - Plan on combining this with my ACO framework to beat the E1M1 in the original DOOM :godmode:.
 
 🔗 [Explore The Repository!](https://github.com/JohnAsaro/DOOM-bot)
