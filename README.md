@@ -27,7 +27,7 @@ You can check them out when they are published here:
 
 ### 👁️ Other Projects:
 
-The project I am currently most exctied about is [Viz-ikemen](https://github.com/JohnAsaro/viz-ikemen), which is a visual reinforcement learning platform for the game Ikemen GO, similiar to VizDoom. 
+The project I am currently most exctied about is [Viz Ikemen](https://github.com/JohnAsaro/viz-ikemen), which is a visual reinforcement learning platform for the game Ikemen GO, similiar to VizDoom. 
 
 ---
 ### 🛠️ Skills & Tools:
