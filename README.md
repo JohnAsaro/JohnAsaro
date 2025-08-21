@@ -32,7 +32,7 @@ The project I am currently most exctied about is [Viz Ikemen](https://github.com
 ---
 ### 🛠️ Skills & Tools:
 
-- **Languages**: Python, C++, C#, Java, Javascript, Go, HTML, CSS, Scheme
+- **Languages**: Python, C++, C#, Go, Lua, Java, Javascript, Go, HTML, CSS, Scheme
 - **Frameworks & Tools**: Gymnasium, Pytorch, REST APIs, Flask, SQLite, Unity
 - **Research Areas**: Evolutionary Computation, Robotics, Computational Social Choice
 
