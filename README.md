@@ -16,9 +16,9 @@ Hello! I am John, if you are on this page, hopefully you are interested in some 
 
 ### 📝 Publications:
 
-I have two upcoming publications to be presented at [ECTA 2025](https://ecta.scitevents.org/). 
+I have two publications that were presented at [ECTA 2025](https://ecta.scitevents.org/)!
 
-You can check them out when they are published here:
+You can check them out here:
 
 1. [Niching Agents in The Core](https://www.researchgate.net/publication/393960007_Niching_Agents_in_The_Core?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjpudWxsLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19), and its [corresponding codebase](https://github.com/ConnAALL/core-niching).
 2. [Decentralized Evolution of Hexapod Gaits with Independent Leg Controllers](https://www.researchgate.net/publication/393964860_Decentralized_Evolution_of_Hexapod_Gaits_with_Independent_Leg_Controllers), and its [corresponding codebase](https://github.com/JohnAsaro/Learning-Isolated-Individual-Leg-Control-on-a-Hexapod).
