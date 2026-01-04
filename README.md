@@ -32,8 +32,8 @@ The project I am currently most exctied about is [Viz Ikemen](https://github.com
 ---
 ### 🛠️ Skills & Tools:
 
-- **Languages**: Python, C++, C#, Go, Lua, Java, Javascript, Go, HTML, CSS, Scheme
-- **Frameworks & Tools**: Gymnasium, Pytorch, REST APIs, Flask, SQLite, Unity
+- **Languages**: Python and C++ (with experience in C#, C, Java, Javascript, Go, Lua, and HTML/CSS)
+- **Frameworks & Tools**: Linux, SQL, REST APIs, Docker, Flask, Svelte, PyTorch, Gymnasium, Matplotlib, NumPy
 - **Research Areas**: Evolutionary Computation, Robotics, Computational Social Choice
 
 ---
