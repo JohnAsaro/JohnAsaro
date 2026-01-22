@@ -43,3 +43,4 @@ Feel free to reach out to me through email or LinkedIn if you want to connect!
 
 <a href="mailto:jasaro@conncoll.edu" target="_blank"><img align="left" alt="Email" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" style="margin-right: 10px;" /></a>
 <a href="https://linkedin.com/in/johnmasaro" target="_blank"><img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="margin-right: 10px;" /></a>
+<a href="https://johnasaro.dev/" target="_blank"><img align="left" alt="Website" width="26px" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" style="margin-right: 10px;" /></a>
