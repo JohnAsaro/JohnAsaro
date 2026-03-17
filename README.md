@@ -33,7 +33,7 @@ The project I am currently most exctied about is [Viz Ikemen](https://github.com
 ### 🛠️ Skills & Tools (used in my public projects):
 
 - **Languages**: Python and C++ (with experience in C#, Java, Javascript, Go, Lua, and Scheme)
-- **Frameworks & Tools**: SQL, REST APIs, Docker, Flask, Svelte, PyTorch, Gymnasium, Matplotlib, NumPy
+- **Frameworks & Tools**: SQL, REST APIs, Docker, Flask, PyTorch, Gymnasium, Matplotlib, NumPy
 - **Research Areas**: Evolutionary Computation, Robotics, Computational Social Choice
 
 ---
