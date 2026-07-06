@@ -10,7 +10,7 @@
 
 ### 💜 About Me:
 
-Hello! I am John, if you are on this page, hopefully you are interested in some of my projects. I love to build stuff, mostly AI systems that learn to solve complex problems overtime. I am a researcher at [AALL](https://github.com/ConnAALL), and a CS Major a Connecticut College, class of 2026.
+Hello! I am John, if you are on this page, hopefully you are interested in some of my projects. I love to build stuff, mostly AI systems that learn to solve complex problems overtime. I am a former researcher at [AALL](https://github.com/ConnAALL), and a recent CS graduate from Connecticut College.
 
 ---
 
