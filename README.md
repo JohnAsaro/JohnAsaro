@@ -30,7 +30,7 @@ You can check them out here:
 The project I am most proud of currently is [Viz Ikemen](https://github.com/JohnAsaro/viz-ikemen), which is a visual reinforcement learning platform for the game Ikemen GO, similiar to VizDoom. 
 
 ---
-### 🛠️ Skills & Tools (used in my public projects):
+### 🛠️ Skills & Tools:
 
 - **Languages**: Python and C++ (with experience in C#, Java, Javascript, Go, Lua, and Scheme)
 - **Frameworks & Tools**: SQL, REST APIs, Docker, Flask, PyTorch, Gymnasium, Matplotlib, NumPy
